@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código y la documentación para un sistema de control remoto inalámbrico implementado con dos microcontroladores Raspberry Pi Pico 2W y módulos de radiofrecuencia nRF24L01. El sistema consiste en una unidad transmisora (TX) que lee datos de un joystick y un acelerómetro, y una unidad receptora (RX) que utiliza estos datos para controlar un servomotor.
 
-![Diagrama de Bloques](diagrama.png)
+![Diagrama de Bloques](diagrama.webp)
 
 ## Características Principales
 
